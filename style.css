@@ -1,0 +1,32 @@
+.email{
+	background-color: #DBEDF8;
+}
+#name{
+	background-color: #fff;
+	color: #000;
+}
+.Basicdetails{
+	border: 2px solid #ddd;
+	margin: 5px;
+}
+.movies{
+	border: 2px solid #ddd;
+	margin: 5px;
+}
+.food-fav{
+	border: 2px solid #ddd;
+	margin: 5px;
+}
+table,tr,td{
+	border: 2px solid #000;
+	border-collapse: collapse;
+}
+.parent-div{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.Basicdetails{
+	border:2px solid #ddd;
+	margin:5px;
+}
