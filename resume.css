@@ -1,0 +1,44 @@
+body{
+	background-color: white;
+	border:2%;
+}
+.mydiv{
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #D4E6F1;
+  overflow-x: hidden;
+  padding-top: 90px;
+}
+.mydiv a {
+  text-decoration: all;
+  color: blue;
+  padding-left: 1%;
+
+}
+.mydiv p{
+	padding-top: 1%;
+}
+img{
+	width: 90%;
+	padding-left: 5%; 
+}
+.mynav{
+	padding-top: 1%;
+}
+.main{
+	margin-left: 20%; 
+  padding-left: 3%;
+  padding-right: 3%;
+}
+.mytable, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th,td{
+	padding: 5px;
+	text-align: center;
+}
