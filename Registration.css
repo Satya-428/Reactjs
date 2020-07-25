@@ -1,0 +1,49 @@
+body{
+	background-color: #DBEDF8;
+	margin-left: 10%; 
+
+}
+.input-container{
+	display: -ms-flexbox;
+	display: flex;
+	width: 100%;
+	margin-bottom: 15px;
+}
+.icon{
+	padding: 10px;
+	background-color: dodgerblue;
+	color: white;
+	text-align: center;
+}
+.input-field{
+	width: 100%;
+	padding: 10px;
+	outline: none;
+}
+.btn {
+  background-color: dodgerblue;
+  color: white;
+  padding:15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  margin-top: 3%;
+}
+
+.birth{
+	padding-bottom: 3%;
+}
+.gender{
+	font-size: 20px;
+}
+.txt{
+	width:99%;
+
+}
+.mydiv{
+
+}
+.style2{
+	
+}
