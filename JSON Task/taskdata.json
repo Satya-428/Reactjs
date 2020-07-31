@@ -1,0 +1,68 @@
+{
+	"details":{
+		"image":"JSONImages/giet.png",
+		"name":"SATYA SRI. G",
+		"qualification":"B. Tech",
+		"email":"satyasri98@gmail.com",
+		"phone":"8989898978",
+		"link1":"https://www.google.com",
+		"link2":"https://www.facebook.com",
+		"link3":"https://github.com"
+	},
+	"obj":{
+		"career":"To be able to work in a highly organized environment and contribute my expertise and knowledge in electrical processes and applications such as designing, testing, troubleshooting, and modifying electrical equipments.",
+		"declaration":"I hereby declare that the above cited information true to the best of my knowledge and belief, if given a chance, I can prove myself."
+
+	},
+
+	"heading":[
+		{
+			"name1":"S.No",
+			"name2":"Specialisation",
+			"name3":"Institute",
+			"name4":"YOP",
+			"name5":"Per"
+
+		}],
+
+	"educationalqualifications":[
+		
+		{
+			"sno":"1.",
+			"specialisation":"B.tech",
+			"institute":"GIET(A)",
+			"pass":"2020",
+			"percentage":"8.43"		},
+		{
+			"sno":"2.",
+			"specialisation":"Intermediate",
+			"institute":"Narayana Junior college",
+			"pass":"2016",
+			"percentage":"94.6"
+		},
+		{
+			"sno":"3.",
+			"specialisation":"SSC",
+			"institute":"S.H.V.P school",
+			"pass":"2014",
+			"percentage":"9.3"
+		}
+	],
+
+	"achievements":[
+		"Took an active part in SRASTHA 2K17,MEDHA 2K17 and MEDHA 2K18",
+		"Did foundation courses in Basic Electronics and Drawing conducted by Siemens Industry Software India Pvt. Ltd",
+		"Member of Innogen groupof my college.",
+		"Participated in workshop conducted at UCEK JNTUKon Artificial Intelligence.",
+		"Took an active part in DESIGN THINKING COURSE conducted by UNIVERSITY INNOVATION FELLOWS of Institute of Design at Stanford and learnt how an idea can be implemented in a better way.",
+		"Took an active part in hosting programs in my college."
+	],
+
+	"technicalskills":["Java","HTML","CSS"],
+
+	"areaointerest":["web designing","Testing"],
+
+	"hobbies":[ "Drawing","writing quotes"],
+
+	"Languages":["Telugu","Hindi","English"]
+}

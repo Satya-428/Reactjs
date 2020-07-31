@@ -1,0 +1,71 @@
+.basicdetails{
+	height:100%;
+	width: 20%;
+	background-color: #B0F7F7;
+	padding-top:10px;
+	/*border: 2px #080808;*/
+	/*margin: 5%;*/
+	text-align: center;
+
+}
+.Languages{
+	height:100%;
+	width: 20%;
+	background-color: #B0F7F7;
+	margin-top: -22px;
+	
+	
+}
+.hobbies{
+	height:100%;
+	width: 20%;
+	background-color: #B0F7F7;
+	margin-top: -22px;
+}
+
+img{
+	height: 80%;
+	width:80%;
+}
+.main{
+	margin-left: 18%; 
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-top: -42%;
+}
+.education{
+  margin-left: 18%; 
+  padding-left: 3%;
+  padding-right: 3%;
+
+}
+table,tr,td{
+	border: 2px solid #000;
+	border-collapse: collapse;
+	text-align: center;
+
+}
+
+.achieve{
+  margin-left: 18%; 
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.tech{
+	margin-left: 18%; 
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.area{
+	margin-left: 18%; 
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.dec{
+	margin-left: 18%; 
+  padding-left: 3%;
+  padding-right: 3%;
+}
