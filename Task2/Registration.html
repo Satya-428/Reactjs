@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="Registration.css">
+
+
+</head>
+<body>
+	<table width="900"  border="0" align="left" cellspacing="10">
+ <tr>
+   <td width="100" height=""><div align="center"><img src="Taskimages/logo1.gif" width="300" height="300" /><span class="style2"></span></div></td>
+   <td width="325">
+
+<div align="left">
+<form action="/action_page.php" style="max-width: 500px; margin-right:  auto;">
+
+		<h2 align="center">Registration Form</h2>
+		<div class="input-container">
+			<i class="fa fa-user icon"></i>
+			<input class="input-field" type="text" placeholder="Enter username" name="usrnm">			
+		</div>
+		<div class="input-container"><i class="fa fa-user icon"></i>
+			<input class="input-field" placeholder="Re-enter the username" type="text" name="reusrnm">
+		</div>
+		<div class="input-container">
+       		<i class="fa fa-envelope icon"></i>
+    		<input class="input-field" type="text" placeholder="Email" name="email">
+  		</div>
+  		<div class="input-container">
+       		<i class="fa fa-envelope icon"></i>
+    		<input class="input-field" type="text" placeholder="Conform Email" name="cemail">
+  		</div>
+  
+  		<div class="input-container">
+    		<i class="fa fa-key icon"></i>
+    	<input class="input-field" type="password" placeholder="Password" name="psw">
+  		</div>
+  		<div class="input-container">
+    		<i class="fa fa-key icon"></i>
+    	<input class="input-field" type="password" placeholder="Conform Password" name="cpsw">
+  		</div>
+
+<div class="gender"><b>Gender</b></div>
+<label class="container" >Female
+  <input type="radio" name="radio"
+  <span class="checkmark"></span>
+
+</label>
+<label class="container">Male
+  		<input type="radio" name="radio">
+  		<span class="checkmark"></span>
+  	</label>
+  	
+ <h3>Date of birth</h3>
+  	<div class="birth">
+  	<label for="birthday"></label>
+  <input type="date" id="birthday" name="birthday">
+</div>
+<div class="input-container"><i class="fa fa-phone icon"></i>
+			<input class="input-field" placeholder="Enter phone number" type="text" name="phn">
+		</div>
+		<textarea  class="txt" rows="10">About Your skills</textarea>
+
+  		<button type="submit" class="btn">Register</button>
+
+	</form>
+
+
+</body>
+</html>
